@@ -14,7 +14,7 @@
 			██║  ██╗██║   ██║      ██║   ███████╗██║  ██║
 			╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝   ╚══════╝╚═╝  ╚═╝
 
-	2016-2023 BigPackets
+	2016-2025 BigPackets
 ```
 The longest running free and private garry's mod cheat provider
 
